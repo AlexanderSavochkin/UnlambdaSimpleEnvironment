@@ -16,3 +16,9 @@ It is implemented in Scala. It has GUI (via Scala-Swing with addition of ScalaSw
 
 Use sbt 0.11.
 This project uses https://github.com/kenbot/ScalaSwingTreeWrapper, build it and put jar into Unlambda-GUI/lib.
+
+
+
+
+ Playing with unlambda GUI environment
+See project wiki for details: https://github.com/AlexanderSavochkin/UnlambdaSimpleEnvironment/wiki
