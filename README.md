@@ -1,7 +1,7 @@
-UnlambdaSimpleEnvironment
+#UnlambdaSimpleEnvironment#
 
 
- What is it?
+##What is it?##
 
 Unlambda is esoteric programming language designed by David Madore http://www.madore.org/~david/programs/unlambda/.
 It is not suitable for practical purposes but programming in Unlambda may be considered as "mathematical puzzle" or
@@ -12,13 +12,17 @@ It is implemented in Scala. It has GUI (via Scala-Swing with addition of ScalaSw
 
 
 
- Building
+##Building##
 
 Use sbt 0.11.
 This project uses https://github.com/kenbot/ScalaSwingTreeWrapper, build it and put jar into Unlambda-GUI/lib.
 
 
 
- Playing with unlambda GUI environment
+##Playing with unlambda GUI environment##
 
-See project wiki for details: https://github.com/AlexanderSavochkin/UnlambdaSimpleEnvironment/wiki
+See [project wiki](https://github.com/AlexanderSavochkin/UnlambdaSimpleEnvironment/wiki) for details.
+
+##Links##
+
+[Blog post about this project (in Russian)](http://stuff-of-sanok.blogspot.ru/2013/01/scala-unlambda.html)
